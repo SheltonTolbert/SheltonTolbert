@@ -1,5 +1,7 @@
 Hi there, I'm Shelton. 
 
 
-- 🔭 I’m currently working on the recruit team at dscout
-- 📫 How to reach me: tolbert.shelton@gmail.com
+Enterprise software by day, half-baked spaghetti by night.
+
+shelcorp.com
+the-administrator@shelcorp.com
